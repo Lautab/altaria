@@ -1,0 +1,4 @@
+Sitemap: https://altaria.com.ar/sitemap.xml
+
+User-Agent: *
+Allow: /
